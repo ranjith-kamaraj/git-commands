@@ -1,4 +1,0 @@
-Hi, Git commands test
-
-
-chabges
