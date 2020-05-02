@@ -27,3 +27,5 @@ git push -u origin (branch name) -- now in github d=server also new branch will 
 
 in local master branch ---so, move the changes
 git merge development
+
+git push origin --delete (branch name)
