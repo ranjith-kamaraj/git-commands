@@ -1,0 +1,22 @@
+git init
+git status 
+git log
+git remote -v
+git remote add origin 
+git push -u origin master
+git add .
+git commit -a -m 'msg'
+  -a = edited files
+  -m = msg for commit
+
+rm .git/index.lock
+
+ssh -T git@github.com - checking ssh authentication
+ssh-keygen -t rsa -C ran@gmail.com -- ssh key generation
+
+git log --pretty==oneline
+
+git reset --soft (old git committed Id) --- used to go back in old git commit 
+
+ git remote set-url origin -- overide the remote url to new
+
