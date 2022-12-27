@@ -1,0 +1,35 @@
+Terminal Commands:
+ls -> list
+
+cd -> Change Directory
+   - cd Documents/Test
+
+cd .. -> Back to one level old folder
+
+cd ~ -> To jump to root directory
+
+
+Directory:
+mkdir <name> -> Create Folder
+   - mkdir movies
+
+touch <filename.extention> -> Create File
+   - touch commands.txt
+
+open <filename.extention> -> Open the file
+   - open commands.txt
+
+open -a Atom commands.txt  -> To open the app in folder
+
+Remove File -> rm <filename> or rm * (to remove all files)
+Remove Folder -> rm -rf <folder_name>
+
+
+Common:
+ctrl + U -> Clear the commands
+ctrl + A
+ctrl + E
+option + Arrow Button
+pwd -> Print working directory
+
+Link: https://www.learnenough.com/
