@@ -16,8 +16,11 @@ mkdir <name> -> Create Folder
 touch <filename.extention> -> Create File
    - touch commands.txt
 
-open <filename.extention> -> Open the file
+open <filename.extention> -> Open the file in default app
    - open commands.txt
+
+vim <filename.extention> -> Open the file in terminal
+   - vim commands.txt
 
 open -a Atom commands.txt  -> To open the app in folder
 
