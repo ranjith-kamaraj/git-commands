@@ -29,3 +29,7 @@ in local master branch ---so, move the changes
 git merge development
 
 git push origin --delete (branch name)
+
+git diff <file_name> -- Do get the diff between the files
+
+git chekout <file_name> -- To rollback into previous version of the file
