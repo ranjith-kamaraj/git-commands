@@ -21,12 +21,12 @@ git reset --soft (old git committed Id) --- used to go back in old git commit
  git remote set-url origin -- overide the remote url to new
 
 git branch (branch name)
-git brach -v
+git branch -v
 git checkout (branch name)
 git push -u origin (branch name) -- now in github d=server also new branch will create
 
 in local master branch ---so, move the changes
-git merge development
+git merge <development>
 
 git push origin --delete (branch name)
 
@@ -37,4 +37,6 @@ git chekout <file_name> -- To rollback into previous version of the file
 git rm --cached -r . -- To remove all the files from staging into un-staginqg in the current project
 
 q --> To quit the terminal from all commands
+
+Link: https://learngitbranching.js.org/
 
