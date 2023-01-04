@@ -34,4 +34,7 @@ git diff <file_name> -- Do get the diff between the files
 
 git chekout <file_name> -- To rollback into previous version of the file
 
-git rm --cached -r . -- To remove all the files from staging into un-staging from the current project
+git rm --cached -r . -- To remove all the files from staging into un-staginqg in the current project
+
+q --> To quit the terminal from all commands
+
