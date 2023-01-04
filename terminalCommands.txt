@@ -27,6 +27,8 @@ open -a Atom commands.txt  -> To open the app in folder
 Remove File -> rm <filename> or rm * (to remove all files)
 Remove Folder -> rm -rf <folder_name>
 
+cp -r <old-folder> <new-folder> -> Creating the copy of the folder
+
 
 Common:
 ctrl + U -> Clear the commands
@@ -34,5 +36,6 @@ ctrl + A
 ctrl + E
 option + Arrow Button
 pwd -> Print working directory
+
 
 Link: https://www.learnenough.com/

@@ -38,5 +38,10 @@ git rm --cached -r . -- To remove all the files from staging into un-staginqg in
 
 q --> To quit the terminal from all commands
 
+git merge <branch-name> and git rebase <branch-name> --> Both will do the same work
+merge -> Will keep whole history
+rebase -> Won't keep history
+
 Link: https://learngitbranching.js.org/
+https://git-scm.com/docs
 
